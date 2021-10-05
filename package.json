@@ -1,9 +1,9 @@
 {
-  "name": "gulp-typescript",
-  "version": "6.0.0-alpha.1",
+  "name": "@cloudhub-js/gulp-typescript",
+  "version": "6.0.0",
   "description": "A typescript compiler for gulp with incremental compilation support.",
-  "homepage": "https://github.com/ivogabe/gulp-typescript",
-  "bugs": "https://github.com/ivogabe/gulp-typescript/issues",
+  "homepage": "https://github.com/cloudhubke/gulp-typescript",
+  "bugs": "https://github.com/cloudhubke/gulp-typescript/issues",
   "license": "MIT",
   "keywords": [
     "typescript",
@@ -21,40 +21,8 @@
   },
   "contributors": [
     {
-      "name": "Jesper Jonsson",
-      "email": "jesper.m.jonsson@gmail.com"
-    },
-    {
-      "name": "Shogo Iwano",
-      "email": "shiwano@gmail.com"
-    },
-    {
-      "name": "Martin Poelstra",
-      "email": "m.poelstra@spiritit.com"
-    },
-    {
-      "name": "Jakub Olek",
-      "email": "bukaj.kelo+github@gmail.com"
-    },
-    {
-      "name": "Ilan Frumer",
-      "email": "IlanFrumer@gmail.com"
-    },
-    {
-      "name": "James Whitney",
-      "email": "james@whitney.io"
-    },
-    {
-      "name": "Jaroslaw Zalucki",
-      "email": "mad.jaro@gmail.com"
-    },
-    {
-      "name": "Yui Tanglertsampan",
-      "email": "yuisu@microsoft.com"
-    },
-    {
-      "name": "Rogier Schouten",
-      "email": "github@workingcode.ninja"
+      "name": "Bernard Gaitho",
+      "email": "gaithoben@gmail.com"
     }
   ],
   "main": "release/main.js",
@@ -95,6 +63,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ivogabe/gulp-typescript.git"
+    "url": "https://github.com/cloudhubke/gulp-typescript.git"
   }
 }
